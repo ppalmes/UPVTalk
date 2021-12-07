@@ -6,7 +6,6 @@
     * sessions/attach/detach
     * with vim-slime (https://github.com/jpalardy/vim-slime)
     * tmux broadcast
-* ansible automations
 
 ### Sites
 * github (https://github.com)
