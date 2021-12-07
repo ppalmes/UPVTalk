@@ -6,6 +6,7 @@
     * sessions/attach/detach
     * with vim-slime (https://github.com/jpalardy/vim-slime)
     * tmux broadcast
+* vim (https://www.youtube.com/watch?v=d8XtNXutVto)
 
 ### Sites
 * github (https://github.com)
