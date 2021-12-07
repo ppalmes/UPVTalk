@@ -1,4 +1,4 @@
-# Working Environment
+### Working Environment
 * zsh (https://github.com/sorin-ionescu/prezto)
     * history search, history substring search (https://github.com/zsh-users/zsh-history-substring-search)
     * fzf - fuzzy finder (https://github.com/junegunn/fzf)
@@ -8,7 +8,7 @@
     * tmux broadcast
 * ansible automations
 
-# Sites
+### Sites
 * github (https://github.com)
 * discourse (https://www.discourse.org/)
 * slack (https://slack.com/)
@@ -17,7 +17,7 @@
 * stackoverflow (https://stackoverflow.com/)
 * hacker news (https://news.ycombinator.com/item?id=22455009)
 
-# Github
+### Github
 * AutoMLPipeline use-case (https://github.com/IBM/AutoMLPipeline.jl)
     * README and Dynamic Documentation by CI
     * Code management by git cli
@@ -27,7 +27,7 @@
     * Unit-testing, Code Coverage, Issues, PR
     * Zenhub/Project Management for Agile software development
 
-# Kubernetes 
+### Kubernetes 
 * overview (https://www.youtube.com/watch?v=X48VuDVv0do)
 * dockers (https://www.youtube.com/watch?v=3c-iBn73dDE)
 * devops (https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
