@@ -3,10 +3,14 @@
     * history search, history substring search (https://github.com/zsh-users/zsh-history-substring-search)
     * fzf - fuzzy finder (https://github.com/junegunn/fzf)
 * tmux (https://github.com/tmux/tmux)
-    * sessions/attach/detach
+    * sessions/attach/detach/broadcast
     * with vim-slime (https://github.com/jpalardy/vim-slime)
-    * tmux broadcast
-* vim (https://www.youtube.com/watch?v=d8XtNXutVto)
+* vim editor (https://www.youtube.com/watch?v=d8XtNXutVto)
+* programming languages
+   * julia (https://julialang.org/)
+   * R (https://www.r-project.org/)
+   * python (https://www.python.org/)
+   * rust (https://www.rust-lang.org/)
 
 ### Sites
 * github (https://github.com)
