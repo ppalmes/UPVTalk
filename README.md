@@ -13,12 +13,15 @@
    * python (https://www.python.org/)
    * rust (https://www.rust-lang.org/)
 
-### Sites
-* github (https://github.com)
+### Collaboration Tools
 * discourse (https://www.discourse.org/)
 * slack (https://slack.com/)
-* youtube (https://www.youtube.com/watch?v=f5EpcWp0THw)
+* zulip (https://zulip.com/)
 * gitter (https://gitter.im/)
+* github (https://github.com)
+
+### Help/Tutorial Sites 
+* youtube (https://www.youtube.com/watch?v=f5EpcWp0THw)
 * stackoverflow (https://stackoverflow.com/)
 * hacker news (https://news.ycombinator.com/item?id=22455009)
 
