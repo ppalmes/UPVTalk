@@ -1,7 +1,8 @@
 ### Working Environment
+* references: https://github.com/ppalmes/FavoriteLinks
 * zsh (https://github.com/sorin-ionescu/prezto)
-    * history search, history substring search (https://github.com/zsh-users/zsh-history-substring-search)
-    * fzf - fuzzy finder (https://github.com/junegunn/fzf)
+    * history search (https://github.com/zsh-users/zsh-history-substring-search)
+    * fuzzy finder (https://github.com/junegunn/fzf)
 * tmux (https://github.com/tmux/tmux)
     * sessions/attach/detach/broadcast
     * with vim-slime (https://github.com/jpalardy/vim-slime)
@@ -34,6 +35,8 @@
 ### Kubernetes 
 * overview (https://www.youtube.com/watch?v=X48VuDVv0do)
 * dockers (https://www.youtube.com/watch?v=3c-iBn73dDE)
+* prometheus/grafana dashboard (https://grafana.com/grafana/dashboards/)
+* use-case: deploying application (AutoMLPipeline)
 * devops (https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
 * ansible automations (https://www.redhat.com/en/technologies/management/ansible)
 
