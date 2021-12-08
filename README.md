@@ -1,5 +1,5 @@
 ### Working Environment
-* references: https://github.com/ppalmes/FavoriteLinks
+* link location: https://github.com/ppalmes/FavoriteLinks
 * zsh (https://github.com/sorin-ionescu/prezto)
     * history search (https://github.com/zsh-users/zsh-history-substring-search)
     * fuzzy finder (https://github.com/junegunn/fzf)
