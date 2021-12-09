@@ -1,3 +1,21 @@
+### Github
+* AutoMLPipeline use-case (https://github.com/IBM/AutoMLPipeline.jl)
+    * README and Dynamic Documentation by CI
+    * Code management by git cli
+        * create/clone repo
+        * git clone, git add, git commit, git push, git branch
+    * CI or Continuous Integration by Github Actions or Travis
+    * Unit-testing, Code Coverage, Issues, PR
+    * Zenhub/Project Management for Agile software development
+
+### Kubernetes 
+* overview (https://www.youtube.com/watch?v=X48VuDVv0do)
+* dockers (https://www.youtube.com/watch?v=3c-iBn73dDE)
+* prometheus/grafana dashboard (https://grafana.com/grafana/dashboards/)
+* use-case: deploying application (AutoMLPipeline)
+* devops (https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
+* ansible automations (https://www.redhat.com/en/technologies/management/ansible)
+
 ### Working Environment
 * link location: https://github.com/ppalmes/FavoriteLinks
 * zsh (https://github.com/sorin-ionescu/prezto)
@@ -24,22 +42,3 @@
 * youtube (https://www.youtube.com/watch?v=f5EpcWp0THw)
 * stackoverflow (https://stackoverflow.com/)
 * hacker news (https://news.ycombinator.com/item?id=22455009)
-
-### Github
-* AutoMLPipeline use-case (https://github.com/IBM/AutoMLPipeline.jl)
-    * README and Dynamic Documentation by CI
-    * Code management by git cli
-        * create/clone repo
-        * git clone, git add, git commit, git push, git branch
-    * CI or Continuous Integration by Github Actions or Travis
-    * Unit-testing, Code Coverage, Issues, PR
-    * Zenhub/Project Management for Agile software development
-
-### Kubernetes 
-* overview (https://www.youtube.com/watch?v=X48VuDVv0do)
-* dockers (https://www.youtube.com/watch?v=3c-iBn73dDE)
-* prometheus/grafana dashboard (https://grafana.com/grafana/dashboards/)
-* use-case: deploying application (AutoMLPipeline)
-* devops (https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA)
-* ansible automations (https://www.redhat.com/en/technologies/management/ansible)
-
