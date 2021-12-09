@@ -1,5 +1,6 @@
 ### Github
-* AutoMLPipeline use-case (https://github.com/IBM/AutoMLPipeline.jl)
+* MyProject use-case
+* AutoMLPipeline CI use-case (https://github.com/IBM/AutoMLPipeline.jl)
     * README and Dynamic Documentation by CI
     * Code management by git cli
         * create/clone repo
